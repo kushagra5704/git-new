@@ -1,4 +1,7 @@
 <title>Location API Example</title>
+jhashjbdjh
+sjadbsjahdsa
+jsadjsakhdsjakhdask
 <?php
 include("connect.php");
 if(isset($_POST['place']))
