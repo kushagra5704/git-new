@@ -1,4 +1,4 @@
-<title>Location API</title>
+<title>Location API Example</title>
 <?php
 include("connect.php");
 if(isset($_POST['place']))
